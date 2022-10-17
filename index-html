@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet"href="style.css"/>
+  </head>
+  
+  <body>
+    <div class="photo">
+      <img src="https://media-exp1.licdn.com/dms/image/C5603AQHgs9RqcMpyUA/profile-displayphoto-shrink_400_400/0/1580660104479?e=1671062400&v=beta&t=tKJz7DJugLwdwV399ml8fUEZ8iyOQWem0ga_Mxg1EWI"/>
+    </div>
+    
+    
+    <div class="header">
+      <h1>Brent Johnson</h1>
+      <h2>2755 Larch Ln N, Plymouth MN 55441</h2>
+      <h2>415.494.7365</h2>
+      <h3>brentjohnson3274@gmail.com</h3>
+    </div> 
+      
+    <div class="summary">
+      <p><span style="font-size:24px;font-weight:900;">Summary</span> Dedicated and passionate culinary professional with experience working in and
+managing a variety of establishments including Michelin Star restaurants, corporate accounts and
+nonprofits. Strong leadership and experience in farm to fork concepts, artisan pizza programs and opening
+restaurants with full accountability for P&L’s, scheduling, staffing, costing, management systems and
+menu development.</p>
+    </div>
+    
+    <div class="experience">
+      <h3>Professional Experience</h3>
+    </div>
+    
+    <div>
+    <p><span style="font-weight:900;">Golden Valley Country Club</span>, Golden Valley, Minnesota November 2019-June 2022</p>
+      <p><span style="font-weight:900;">Executive Chef</span></p>
+      <ul>
+        <li>Oversee all culinary operations for member only dinning as well as private events ($4M annual revenue</li>
+        <li>Special menus for wine maker dinners, multi day events, board members</li>
+        <li>Restructured food programs for multiple property outlets</li>
+      </ul>
+      <p><span style="font-weight:900;">Red Rabbit</span>, St. Paul, Minnesota April 2018 - September 2019</p>
+      <p><span style="font-weight:900;">Executive Chef</span></p>
+      <ul>
+        <li>Opening chef for restaurant specializing in pizza and pasta </li>
+        <li>Managed all kitchen operations ($4 million annual revenue)</li>
+        <li>Successfully operated Grand Ole Day Event 2019 ($80K revenue)</li>
+      </ul>
+      <p><span style="font-weight:900;">The Village Bakery</span>, Woodside, California June 2017 - December 2017</p>
+      <P><span style="font-weight:900;">Chef Consultant</span></p>
+      <ul>
+        <li>Directed opening chef for contemporary American </li>
+        <li>Mentored staff</li>
+        <li>Created and implemented artisan pizza program</li>
+      </ul>
+      <p><span style="font-weight:900;">STEM Kitchen & Garden</span>, San Francisco, California 2014 -2017</p>
+      <p><span style="font-weight:900;">Executive Chef</span></p>
+      <ul>
+        <li>Directed opening chef for contemporary American </li>
+        <li>Mentored staff</li>
+        <li>Created and implemented artisan pizza program</li>
+        <li>Awarded Michelin Recommendation</li>
+        <li>Collaborated with onsite farm to create cuisine from garden to plate</li>
+      </ul>	                                                    
+      <p><span style="font-weight:900;">La Cocina</span>, San Francisco, California 2013-2014</p>
+      <p><span style="font-weight:900;">Culinary Director</span></p>
+      <ul>
+        <li>Mentored 30 entrepreneurs with food start-up businesses</li>
+        <li>Consulted on OFF THE GRID (SF food truck) events</li>
+        <li>Advanced culinary curriculum development</li>
+        <li>Directed all kitchen operations</li>
+        <li>Successfully executed culinary operations for San Francisco Street Food Festival with over 35 vendors and 80,000 attendance</li>
+      </ul>
+      <p><span style="font-weight:900;">Spruce</span>, San Francisco, California 2007-2012</p>
+      <p><span style="font-weight:900;">Executive Sous Chef</span></p>
+      <ul>
+        <li>Successfully opened and trained staff of 35 for * Michelin star restaurant serving contemporary American cuisine ($5M annual revenue</li>
+        <li>Responsible for administrative duties, menu planning, and kitchen management</li>
+        <li>Created and advanced charcuterie program, including fresh and dry cured fermented salami</li> 
+      </ul>
+    </div>
+      
+    <div class="education">
+      <h3>Education</h3>
+    </div>
+      <p><span style="font-weight:900;">Koch College</span> – Completion Meat Processing Seminar		                     Kansas City, Missouri</p>
+      <p><span style="font-weight:900;">Iowa State University</span> – Completion Dry and Semi-Dry Sausage Course	                       Ames, Iowa</p>
+      <p><span style="font-weight:900;">French Culinary Institute</span> – Graduate Grand Diploma                                                         N.Y., New York</p>
+      <p><span style="font-weight:900;">State University of New York</span> - 3 years Computer Science Major                           Stony Brook, New York</p>
+    
+      
+    <div class="qualifications">
+      <h3>Other Qualifications</h3>
+    </div>
+      <p><span style="font-weight:bold;">WSET</span> Level 2 Certification</p>
+      <p><span style="font-weight:bold;">MDH</span> certified food manager</p>
+      <p><span style="font-weight:bold;">CUESA</span> (The Center for Urban Education about Sustainable Agriculture) 2009 Second Annual Grill Fest: Burger Challenge 1st Place Champion Winner                                                          San Francisco, California</p>
+      <p><span style="font-weight:bold;">CUESA</span> 2010 Third Annual Grill Fest: Sausage Challenge 1st Place Champion Winner                    S.F. CA</p>
+      <p><span style="font-weight:bold;">Pizzetta 211</span> – Pizzaiola 3 years, First artisan pizza shop in…                                 San Francisco, California</p>
+      <p><span style="font-weight:bold;">Chef de Partie</span> Oliveto – 1 year, Italian cuisine	                                                      Oakland, California</p>
+      <p><span style="font-weight:bold;">Country, Picholine, WD-50</span> - Stagiaire                                                                                   N.Y., New York</p>
+      <p><span style="font-weight:bold;">ADNY Alain Ducasse</span> - Opening Chef de Partie 1 year, * Michelin                                       N.Y., New York</p>
+      <p><span style="font-weight:bold;">Masa’s</span> - Chef de Partie 1 year, Zagat #1 Top Rated                                                San Francisco, California</p>
+    
+    <div>
+        <h6> Copyright Brent Johnson 2022</h6>
+    </div>
+  </body>
+</html>
